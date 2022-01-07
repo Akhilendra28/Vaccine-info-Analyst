@@ -1,1 +1,1 @@
-# Vaccine-management-system
+# Vaccine-info.-Analyst
